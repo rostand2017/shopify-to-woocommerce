@@ -2,7 +2,6 @@ import json
 import requests
 import time
 
-
 products_url = "https://your-shopify.com/products.json?page="
 page = 1
 product_len = 30
